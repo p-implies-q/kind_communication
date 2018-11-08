@@ -1,7 +1,139 @@
-Head:     master Renamed to README
-Merge:    origin/master Renamed to README
+#+TITLE: A Guide to Kind Communication
 
-Recent commits
-b398674 master origin/master Renamed to README
-f92790c First commit
+* Preamble
+This document will get to its core very quickly, and provide additional
+information and explanation afterwards. However, if you find that you get along
+well with the other members of the community, then you can stop reading here.
+If, however, you find communication between you and others is tense, please
+continue reading for ways that the situation might be resolved.
 
+* The core
+
+- Try your hardest to be kind.
+- Failing that, try your hardest to be civil until you can be kind.
+- Failing that, try your hardest to be quiet until you can be civil.
+- Failing that, go away until you can be quiet.
+
+* Explanation of terms
+
+In this section I break down each of the four lines in the core. It is important
+to remember that in communication you can take two roles, the producer of a
+message and the consumer of a message. This distinction will return in the
+breakdown of terms.
+
+** Kind
+Kindness comes from benevolence, from a desire for people to be free of pain and
+suffering, from a desire for people to be happy and comfortable. Try to
+cultivate an attitude of kindness in your dealings with others. If you act from
+a genuine wish for the betterment of others and yourself, you are doing well.
+
+Note that it is often kind to be gentle, but sometimes it is kind to be harsh as
+well. If a young child puts a piece of glass in their mouth, the kindest thing
+to do is get that piece of glass out as quickly as possible, even if scares or
+hurts the child. In the same way, when there is a serious flaw or vulnerability
+in someone's code, it is more important to be clear than it is to be gentle.
+However, if you are actively abrasive this might scare them more than is
+necessary and alienate them from further participation. Please exercise
+discretion and try to act from an attitude of benevolence.
+
+*** As a producer of a message
+Try to keep in mind the person or people you are targetting your message at.
+Every sentient being comes with their own insecurities, fears, hopes, and
+desires. Every message you produce has consequences for the receivers of your
+message. To be a kind messager means trying to convey your messages in such a
+way that they have the greatest possible benevolent effects.
+
+*** As the consumer of message
+Assume that the producer of the message is acting with the best of intentions.
+If a message seems harsh or unkind, investigate further. Perhaps the producer
+was acting with your best intentions at heart?
+
+If you come to the conclusion that the producer of the message made a serious
+transgression of acceptable behavior, then assume clumsiness or ignorance before
+malevolence.
+
+Be content with civility. Sometimes kindness is hard to muster. Try to be really
+good yourself, but be permissive of others.
+
+** Civil
+Kindness requires effort, and sometimes we are tired or stressed or fed up with
+a particular individual in the community. These things happen. At this point, if
+you truly lack the ability to be kind, fall back on civility. If you cannot find
+it in yourself to act from a wish for the happiness and betterment of everyone
+involved, at least try to do no harm.
+
+Remind yourself that, when dealing with someone who seems particularly obtuse,
+they probably aren't doing it to purposefully hurt you, so there is no reason to
+try to hurt them back. Even if they are trying to hurt you, then getting hurt
+and losing control is still giving them what they want.
+
+Don't feel bad for having angry or aggressive thoughts, emotions or impulses.
+The important thing is to control your intentional behavior.
+
+If in doubt, err on the side of being overly formal.
+
+*** As a producer of a message
+If you have trouble remaining kind, then it is a good idea to reread your
+message. Does it contain phrases that were formulated with the intent to harm or
+belittle? Scrap those.
+
+*** As the consumer of a message
+Take the message at face value. Do not look for underlying motives or implied
+messages. Take whatever was written literally and try to find a way to interpret
+the message that is productive or useful.
+
+** Quiet
+If you can no longer control your urge to do harm, then it is better to do
+nothing at all. Do not send messages, as a producer, and do not consume messages
+as a consumer. Just take a break and let your emotions quiet down. We often feel
+strongly and think things are very important, but then when the feelings quiet
+down (and they always do), things take on a different perspective. Just wait for
+that to happen and return to being civil, or even kind if you can manage it,
+when your energy reserves have refilled.
+
+** Go away for a bit
+If it is really hard to remain quiet for a while, it might be time to put this
+project down for a bit. Go work on something else for a while, go walking, take
+up meditation, develop some perspective. You will always be welcomed back with
+kindness when you can manage civility.
+
+
+* Q&A
+
+** Who is this document for?
+This document is mainly aimed at open source software projects that feel
+pressured to adopt some kind of Code of Conduct, either because the project
+community doesn't get along very well with each other, or because there is
+outside pressure from interest groups.
+
+** How is this document different from standard Code of Conduct's?
+Most CoC's I have read contain a series of rules (a lot of Don't's), many
+ambiguously worded, and some kind of body of enforcement. They tend to put the
+onus of offense on the offense giver, but thereby incentivize taking offense as
+a way to win an argument.
+
+This CoC focusses on Do's, on things you as an individual can do to improve
+things, not on things you should police others on. Additionally, the
+responsibilities outlined are equally strong for the producer of messages as the
+consumer.
+
+** Why no mention of [insert demographic]?
+Because everyone deserves to be treated kindly, or at least civilly, regardless
+of [insert defining trait].
+
+** What should I do when someone I interact with keeps hurting me?
+If there is a particular behavior that a person is showing that is intolerable
+to you, please inform them of this and ask them if they can accomodate your
+request. If the person reoffends, please remind them again. The correct amount
+of times to remind someone is at least 3, more if you can manage it.
+
+If the other person either refuses to adapt to your wishes, or is incapable of
+meeting your request, and there is no way you can practically avoid interacting
+with this person, then please bring the issue to the attention of <insert
+contact people here> and they will make a discretionary judgement based on the
+details of the case.
+
+** This document is not perfect!
+Although that is not a question... Yep, I agree. All of these documents are just
+guidelines. If you see an improvement please submit a pull request. Real
+conflict resolution is always going to be based on the details of a case.
